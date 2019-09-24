@@ -43,8 +43,8 @@ Candidates are expected to know how to use the SparkContext to control basic con
 ### SparkSession
 Candidates are expected to know how to:
 
-* Create a DataFrame/Dataset from a collection (e.g. list or set)
-* Create a DataFrame for a range of numbers
+* [Create a DataFrame/Dataset from a collection (e.g. list or set)](https://github.com/leandrohmvieira/databricks-crt020-notes/blob/master/notebooks/creating_dataframes.ipynb)
+* [Create a DataFrame for a range of numbers](https://github.com/leandrohmvieira/databricks-crt020-notes/blob/master/notebooks/creating_dataframes.ipynb)
 * Access the DataFrameReaders
 * Register User Defined Functions (UDFs).
 ### DataFrameReader
