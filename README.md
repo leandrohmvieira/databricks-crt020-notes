@@ -65,11 +65,12 @@ Candidates are expected to know how to:
 * How to write partitioned data
 * How to bucket data by a given set of columns
 ### DataFrame
-Have a working understanding of every action such as take(), collect(), and foreach()
-Have a working understanding of the various transformations and how they work such as producing a distinct set, filtering data, repartitioning and coalescing, performing joins and unions as well as producing aggregates
-Know how to cache data, specifically to disk, memory or both
-Know how to uncache previously cached data
-Converting a DataFrame to a global or temp view.
+* Have a working understanding of every action such as take(), collect(), and foreach()
+* Have a working understanding of the various transformations and how they work such as producing a distinct set, filtering data, repartitioning and coalescing, performing joins and unions as well as producing aggregates
+* Know how to cache data, specifically to disk, memory or both
+* Know how to uncache previously cached data
+* Converting a DataFrame to a global or temp view.
+
 ### Applying hints
 Row & Column
 Candidates are expected to know how to work with row and columns to successfully extract data from a DataFrame
