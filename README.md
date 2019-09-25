@@ -50,8 +50,8 @@ Candidates are expected to know how to:
 ### DataFrameReader
 Candidates are expected to know how to:
 
-* Read data for the “core” data formats (CSV, JSON, JDBC, ORC, Parquet, text and tables)
-* How to configure options for specific formats
+* [Read data for the “core” data formats (CSV, JSON, JDBC, ORC, Parquet, text and tables)](https://github.com/leandrohmvieira/databricks-crt020-notes/blob/master/notebooks/reading_data.ipynb)
+* [How to configure options for specific formats](https://github.com/leandrohmvieira/databricks-crt020-notes/blob/master/notebooks/reading_data.ipynb)
 * How to read data from non-core formats using format() and load()
 * How to specify a DDL-formatted schema
 * How to construct and specify a schema using the StructType classes
